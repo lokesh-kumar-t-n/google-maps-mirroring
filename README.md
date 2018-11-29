@@ -8,3 +8,5 @@ $ gcc helper.c update_graph.c shortest_path.c client.c -o main
 After creating the object code, run the object code and give the input as specified by the program
 
 $ ./main
+
+Do make use of the file city.txt which stores the names of all the cities in the graph considered
