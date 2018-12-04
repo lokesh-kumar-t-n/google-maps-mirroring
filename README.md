@@ -9,4 +9,7 @@ After creating the object code, run the object code and give the input as specif
 
 $ ./main
 
-Do make use of the file city.txt which stores the names of all the cities in the graph considered
+Do make use of the file city.txt which stores the names of all the cities in the graph considered.
+
+Also there is a report regarding the whole project. One might take a look into that for the various decisions and design issues
+encountered
